@@ -1,0 +1,49 @@
+#x11{
+    background-color: crimson;
+}
+#x1{
+    text-align: center;
+    font-size: xx-large;
+}
+#x2{
+    text-align: center;
+    font-size: xx-large;
+}
+#x3{
+    text-align: center;
+}
+#x4{
+    text-align: center;
+    font-size: xx-large;
+}
+#x5{
+    text-align: center;
+    font-size: xxx-large;
+}
+#x6{
+    text-align: center;
+    font-size: x-large;
+}
+img{
+    padding-left: 500px;
+    padding-bottom: 60px;
+}
+textarea {
+    width: 70%;
+    height: 150px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    font-size: 16px;
+    resize: none;
+margin-left: 100px;
+   
+  }
+
+
+
+
+       
+    
