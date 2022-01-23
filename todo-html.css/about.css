@@ -1,5 +1,9 @@
+#x11{
+    background-color: crimson;
+}
 #x1{
     text-align: center;
+    font-size: xx-large;
 }
 #x2{
     text-align: center;
@@ -14,10 +18,11 @@
 }
 #x5{
     text-align: center;
-    font-size: xx-large;
+    font-size: xxx-large;
 }
 #x6{
     text-align: center;
+    font-size: x-large;
 }
 img{
     padding-left: 500px;
