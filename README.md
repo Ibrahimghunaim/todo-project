@@ -1,4 +1,3 @@
 # todo-project
-![Screenshot 2022-01-21 210736](https://user-images.githubusercontent.com/97805577/150585838-9ef8f978-ed36-4782-9419-8a2c4aadf49b.png)
-
-![Screenshot 2022-01-21 210939](https://user-images.githubusercontent.com/97805577/150586096-e151ed5d-cbd5-4c0a-b20c-b71ee6351333.png)
+![index](https://user-images.githubusercontent.com/97805577/150214431-c18f25b5-a48d-4aef-817c-d1015cc501d5.png)
+![Screenshot 2022-01-18 173920](https://user-images.githubusercontent.com/97805577/150214480-1f2e376e-7f00-4b2f-ad78-e2e2c01eb3d2.png)
