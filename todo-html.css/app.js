@@ -1,6 +1,7 @@
 
 var skip = prompt("do you want to skip welcoming measege ?");
-if(skip=="No"){
+skip1=skip.toUpperCase;
+if(skip1=="No"){
 
 var userName = prompt("What's your name ?");
 alert("welcom" + userName);
@@ -20,32 +21,26 @@ if ("converted"=="female"||"converted"=="male"||"converted"=="f"||"converted"=="
      alert("welcom in this website");
  }
  if("converted"=="m"||"converted"=="male")
- alert("welcom " +userName+ "Mr")
+ alert("welcom  " +userName+ "Mr");
  else
  {
-     alert("welcom " +userName+ "Ms")
+     alert("welcom  " +userName+ "Ms");
  }
 } 
 
   else{
       alert("welcom");
   }
-    // var age = prompt("what is your age");
-    // if(age<=0){
-    //     console.log("not allwed");}
-    //     else{
-    //         console.log("welcome in my website");
-    //     }
-        
+  alert("I would like to answer more questions YES or NO");
+  var one =0;
+  var tow=0;
+  var three=0;
+  while(one==0&&tow==0&&three==0){
+  var one =prompt("are you marred");
+  var tow =prompt("are you happy");
+  var three =prompt("do you have a driving licence");
+}
+var arry =[one,tow,three];
+console.log(arry);
     
-    // }
-    // else{console.log("enter your correct gender")
-
-    // }
-    
-
-
- 
- 
-// Ask the user to enter his/her gender as input. The answer should be either (male or female).
-
+  
